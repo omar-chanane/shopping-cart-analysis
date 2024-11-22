@@ -1,5 +1,5 @@
 
-# **E-Commerce Dashboard Application**
+# **Analyse des Paniers d'Achat**
 
 ## **Description**
 Cette application permet de gérer et d'analyser les données de vente d'un site e-commerce à travers un tableau de bord interactif.une gestion des produits avec pagination.
