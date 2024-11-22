@@ -230,6 +230,3 @@ curl -X GET "http://localhost:5000/api/products?page=1&limit=10"
 ```
 
 ---
-
-## **Contribution**
-Les contributions sont les bienvenues ! Veuillez créer une `issue` ou soumettre une `pull request` si vous souhaitez contribuer.
